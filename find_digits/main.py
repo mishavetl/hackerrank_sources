@@ -1,12 +1,13 @@
 """
 
-Main file for find_digits
+Find Digits Hackerrank
 
 author: mishavietl
 
 """
 
 def amount_of_divide_digits(number):
+    """findes digits in number that divides on number"""
     number_s = str(number)
     amount = 0
 
@@ -19,6 +20,7 @@ def amount_of_divide_digits(number):
     return amount
 
 def input_u():
+    """takes input from user"""
     amount_inputs = input()
     numbers = []
     for x in range(amount_inputs):
@@ -26,7 +28,9 @@ def input_u():
     return numbers
 
 def main():
+    """main function"""
     for num in input_u():
         print amount_of_divide_digits(num)
+
 
 main()
