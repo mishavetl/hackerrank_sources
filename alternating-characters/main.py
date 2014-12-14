@@ -1,6 +1,6 @@
 """
 
-Alternating Cahracters Hackerrank
+Alternating Characters Hackerrank
 
 author: mishavietl
 
@@ -21,4 +21,4 @@ def main():
     for x in range(int(raw_input())):
         print delete_copies(raw_input())
 
-# main()
+main()
