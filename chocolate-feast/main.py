@@ -1,6 +1,6 @@
 """
 
-The lovely letter mystery Hackerrank
+The chocolate feast Hackerrank
 
 author: mishavietl
 

@@ -1,5 +1,5 @@
 """
-Test cases the lovely letter mystery in hackerrank
+Test cases the chocolate feast in hackerrank
 
 author: mishavietl
 
